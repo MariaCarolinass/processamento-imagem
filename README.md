@@ -1,1 +1,1 @@
-# Visão Computacional
+# Processamento de Imagens com Gradio
