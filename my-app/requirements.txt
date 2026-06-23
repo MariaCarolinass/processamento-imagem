@@ -31,7 +31,7 @@ mdurl==0.1.2
 networkx==3.4.2
 numpy==2.2.4
 opencv-python==4.11.0.86
-orjson==3.10.16
+orjson==3.11.6
 packaging==24.2
 pandas==2.2.3
 pillow==11.3.0
